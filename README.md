@@ -1,1 +1,1 @@
-# Turkcell-Gelece-i-Yazanlar
+# Turkcell-Gelecegi-Yazanlar

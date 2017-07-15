@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/ekremc/AndroidStudioProjects/GelecegiYazanlar2/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="/home/ekremc/AndroidStudioProjects/GelecegiYazanlar2/app/build/intermediates/pre-dexed/debug/classes-a0f8433cb76791f88b54ed2fc3c133dc3e596512.jar" />
+    </item>
+    <item
+        jar="/home/ekremc/AndroidStudioProjects/GelecegiYazanlar2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="/home/ekremc/AndroidStudioProjects/GelecegiYazanlar2/app/build/intermediates/pre-dexed/debug/classes-5afa655c94f2e70fb0ee91b3ec6f54b5e1d30e2e.jar" />
+    </item>
+    <item
+        jar="/home/ekremc/Downloads/android-sdk-linux/extras/android/m2repository/com/android/support/support-annotations/23.1.1/support-annotations-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="/home/ekremc/AndroidStudioProjects/GelecegiYazanlar2/app/build/intermediates/pre-dexed/debug/support-annotations-23.1.1-d3b85f5d2fe2976a6f98a9086c965142df88098c.jar" />
+    </item>
+    <item
+        jar="/home/ekremc/AndroidStudioProjects/GelecegiYazanlar2/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/libs/internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="/home/ekremc/AndroidStudioProjects/GelecegiYazanlar2/app/build/intermediates/pre-dexed/debug/internal_impl-23.1.1-09d6d0349bd9fdbadd8f55f250455a10cd3532c4.jar" />
+    </item>
+
+</items>
